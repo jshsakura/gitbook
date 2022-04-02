@@ -1,14 +1,21 @@
 ---
+title: Switch CFW Tutorial GitBook (CFW 튜토리얼 깃북)
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+---
 
-## Demo
+![atmosphere.png](assets/images/index/480418a92aaf116ecc55c59f04e763ace5c065b7.png)
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+### 😊 Nintendo Switch Custom firmware 설치 가이드 튜토리얼에 오신것을 환영합니다.
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+<br>한국 상황에 맞추어 친절하게 소개된 내용이 많지 않아 어려움이 많았던, 순정 아트모 스피어로의 설치에 어려움을 겪는 사용자를 위해 제작된 깃북 스타일의 튜토리얼입니다.
+
+> 본 튜토리얼을 통해 스위치 **Custom firmware(커스텀 펌웨어)**인 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 를 설치하고, 필수 프론트 엔드인 [Hekate](https://github.com/CTCaer/hekate) 를 구성하는 과정으로 진행됩니다.
+>
+> 하드웨어 취약점을 가진 구형 스위치를 기준으로 **Nintendo Switch(닌텐도 스위치)**에서 홈브류 및 사용자 정의 펌웨어를 얻는 데 필요한 모든 단계를 안내합니다.
+
+<br>
 
 ## Why Jekyll with GitBook
 
@@ -54,26 +61,25 @@ style can be added to [./gitbook/rouge/](./gitbook/rouge/).
 
 ## How to generate TOC
 
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
+The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the _Contents_ for the page.
 The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
 configuration in `_config.yml`:
 
 ```yaml
 toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
+  enabled: true
+  h_min: 1
+  h_max: 3
 ```
+
+## Jekyll with GitBook
+
+Live demo on Github Pages: [Jekyll Gitbook](https://sighingnow.github.io/jekyll-gitbook)
+
+[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+
+본 튜토리얼은 위 지킬 깃북 테마를 이용해 작성했습니다.
 
 ## License
 
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
+> 이 튜토리얼은 Creative Commons Attribution-ShareAlike 4.0 International 저작권을 준수합니다. 라이센스 전문은 [https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/) 에서 확인하세요.
