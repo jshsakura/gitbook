@@ -68,3 +68,14 @@
   background-color: rgba(125, 125, 125, 0.2);
   -webkit-border-radius: 6px;
 }
+
+.table-content{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+table[data-ke-style=style15] tr:first-child td {
+    background-color: #2780d4;
+    border: 1px solid #1568b7;
+    color: #fff;
+}
