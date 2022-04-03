@@ -15,7 +15,7 @@ order: 3
 
 주요 `용어`에 대해서는 ⭐ `이모지`로 표기해 드릴게요.
 
-아래 목록 원문의 출처는 [[정보] 닌텐도 스위치 커스텀펌웨어 개념 및 용어](https://gall.dcinside.com/mini/board/view/?id=nintendo_sw_cfw&no=4103&page=1){:target="\_blank"}  이며 내용을 일부 수정하였습니다.
+아래 목록 원문의 출처는 DC CFW 갤러리의 [[정보] 닌텐도 스위치 커스텀펌웨어 개념 및 용어](https://gall.dcinside.com/mini/board/view/?id=nintendo_sw_cfw&no=4103&page=1){:target="\_blank"}  이며 내용을 일부 수정하였습니다.
 
 <br>
 
