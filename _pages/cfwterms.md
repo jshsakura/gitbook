@@ -47,7 +47,7 @@ order: 3
 
 <br>
 
-### ⭐ RCM 모드(리커버리 모드, 복구모드)
+### ⭐ RCM 모드 (복구 모드)
 
 ![TegraRCMGUI.png](../../assets/images/cfwterms/e94b9708a7ec1b7e5f7f3b9777b5b49760d85633.png)
 
@@ -65,7 +65,7 @@ order: 3
 
 <br>
 
-### ⭐ RCM 지그
+### ⭐ RCM 지그 (RCM JIG)
 
 ![rcm_jig_pin.png](../../assets/images/cfwterms/25aa4708badbf208161029950630b96a2b32fb21.png)
 
@@ -85,7 +85,7 @@ order: 3
 
 <br>
 
-### RCM 로더
+### RCM 로더 (RCM Loader)
 
 ![로더기.jpg](../../assets/images/cfwterms/712266810b2836786a4a460263ef87acde4a14d6.jpg)
 
@@ -99,7 +99,7 @@ order: 3
 
 <br>
 
-### ⭐ AutoRCM
+### ⭐ 오토 RCM (AutoRCM)
 
 ![autorcm.png](../../assets/images/cfwterms/e5430eb8ea33d89cc248f788642a3489f11d0f5e.png)
 
