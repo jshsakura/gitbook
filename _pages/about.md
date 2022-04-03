@@ -7,7 +7,7 @@ layout: post
 order: 1
 ---
 
-### 도움이 되는 자료
+### 🧭 도움이 되는 자료
 
 본 튜토리얼은 국내 자료의 경우 [DC CFW 갤러리](https://gall.dcinside.com/mini/board/lists/?id=nintendo_sw_cfw) 와 [OpenCourse](http://opencourse.tistory.com/){:target="\_blank"} 블로그를 참고했습니다.
 
@@ -17,9 +17,9 @@ order: 1
 
 따라서 잘못된 내용이나 오역이 있을수 있으니 문제가 될만한 내용을 발견하신다면, 깃허브 [Issues(이슈)](https://github.com/jshsakura/gitbook/issues){:target="\_blank"} 또는 아래의 코멘트를 통해 알려주세요.
 
-<br>
+<br><br><br>
 
-## Jekyll with GitBook
+## 👍 Jekyll with GitBook
 
 Live demo on Github Pages: [Jekyll Gitbook](https://sighingnow.github.io/jekyll-gitbook){:target="\_blank"}
 
@@ -27,6 +27,8 @@ Live demo on Github Pages: [Jekyll Gitbook](https://sighingnow.github.io/jekyll-
 
 본 튜토리얼은 정적 사이트 생성기인 Jekyll(지킬)과 위 개발자의 깃북 테마를 이용해 작성했습니다.
 
-## License
+<br>
+
+## 🍻 License
 
 > 이 튜토리얼은 Creative Commons Attribution-ShareAlike 4.0 International 저작권을 준수합니다. 라이센스 전문은 [https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/){:target="\_blank"} 에서 확인하세요.

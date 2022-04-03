@@ -7,22 +7,11 @@
                     {% if page.title %}
                         <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
                         <hr/>
-                        <!-- 반응형 수평광고 -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="{{site.user_adsense_client}}"
-                            data-ad-slot="9822854828"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
                     {% else %}
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                         <hr/>
                     {% endif %}
-
-                    
+                    {%- include adsense.html -%}
 
                     {{ content }}
                 </section>
