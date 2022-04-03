@@ -3,11 +3,11 @@ title: Switch CFW Tutorial GitBook (CFW 튜토리얼 깃북)
 layout: home
 ---
 
-![atmosphere.png](assets/images/index/480418a92aaf116ecc55c59f04e763ace5c065b7.png)
+![banner.png](/gitbook/assets/images/index/banner.png)
 
 ### 😊 Nintendo Switch Custom firmware 설치 가이드 튜토리얼에 오신것을 환영합니다.
 
-> 본 `튜토리얼`을 통해 스위치 **Custom firmware(커스텀 펌웨어)**인 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 를 설치하고, 필수 프론트 엔드인 [Hekate](https://github.com/CTCaer/hekate) 를 구성하는 과정으로 진행됩니다.
+> 본 `튜토리얼`을 통해 스위치 **Custom firmware(커스텀 펌웨어)**인 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere){:target="\_blank"} 를 설치하고, 필수 프론트 엔드인 [Hekate](https://github.com/CTCaer/hekate){:target="\_blank"} 를 구성하는 과정으로 진행됩니다.
 >
 > 하드웨어 취약점을 가진 구형 스위치를 기준으로 **Nintendo Switch(닌텐도 스위치)**에서 `홈브류` 및 `사용자 정의 펌웨어`를 얻는 데 필요한 모든 단계를 안내해 드리겠습니다.
 
@@ -60,17 +60,3 @@ layout: home
 😒 물론 지금까진 무슨 소리인지 하나도 모르셔도 좋습니다.
 
 지금부터 천천히 따라오시다 보면 앞으로 `혼자`서도 충분히 `설치`가 가능해질겁니다. 👌
-
-<br><br><br><br><br>
-
-## Jekyll with GitBook
-
-Live demo on Github Pages: [Jekyll Gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
-
-본 튜토리얼은 위 지킬 깃북 테마를 이용해 작성했습니다.
-
-## License
-
-> 이 튜토리얼은 Creative Commons Attribution-ShareAlike 4.0 International 저작권을 준수합니다. 라이센스 전문은 [https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/) 에서 확인하세요.
