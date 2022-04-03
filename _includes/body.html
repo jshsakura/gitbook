@@ -3,27 +3,26 @@
         <div id="book-search-results">
             <div class="search-noresults">
                 <section class="normal markdown-section">
-
+                    
                     {% if page.title %}
                         <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
                         <hr/>
+                        <!-- 반응형 수평광고 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="{{site.user_adsense_client}}"
+                            data-ad-slot="9822854828"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
                     {% else %}
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                         <hr/>
                     {% endif %}
 
-                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3553523371446563"
-                        crossorigin="anonymous"></script>
-                    <!-- 반응형 수평광고 -->
-                    <ins class="adsbygoogle"
-                        style="display:block"
-                        data-ad-client="ca-pub-3553523371446563"
-                        data-ad-slot="9822854828"
-                        data-ad-format="auto"
-                        data-full-width-responsive="true"></ins>
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
+                    
 
                     {{ content }}
                 </section>
