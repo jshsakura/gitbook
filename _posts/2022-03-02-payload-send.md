@@ -49,7 +49,7 @@ PC에서 `파일 명`을 클릭해서 `다운로드` 받아 주세요.
 
 다운로드 받은 파일의 압축을 풀어주셔야합니다.
 
-압축툴은 일반적인 [반디집](https://kr.bandisoft.com/bandizip/) {:target="_blank"}이나 [7zip](https://www.7-zip.org/){:target="_blank"} 이면 충분합니다.
+압축툴은 일반적인 [반디집](https://kr.bandisoft.com/bandizip/){:target="_blank"}이나 [7zip](https://www.7-zip.org/){:target="_blank"} 이면 충분합니다.
 
 <br>
 
