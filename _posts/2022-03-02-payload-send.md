@@ -133,7 +133,7 @@ Windows OS 환경에서 스위치로 `페이로드` 파일을 전송하는 하�
 
 ![rcmjig6.jpg](../assets/images/2022-03-01-RCM/876f4284fd61f8949b4e8c4b745608f2f0f392da.jpg)
 
-앞서 4장에서 다루었던 [RCM 모드 진입](/gitbook/cfw/2022-03-01-RCM.html) {:target="_blank"} 과정에서 배운 내용을 토대로 스위치를 `RCM 모드`로 진입해줍니다.
+앞서 4장에서 다루었던 [RCM 모드 진입](/gitbook/cfw/2022-03-01-RCM.html){:target="_blank"} 과정에서 배운 내용을 토대로 스위치를 `RCM 모드`로 진입해줍니다.
 
 `RCM 모드`로 진입이 성공했다 싶으시면, PC와 스위치를 USB 케이블로 연결해줍니다.
 
