@@ -1,6 +1,6 @@
 # Configurations
-title: Custom Firmware Tutorial
-longtitle: Switch OpenCourse Custom Firmware Tutorial GitBook
+title: Switch CFW Tutorial
+longtitle: Switch Custom Firmware Tutorial GitBook
 author: jshsakura
 email: jshsakura@gmail.com
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

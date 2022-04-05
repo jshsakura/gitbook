@@ -1,5 +1,5 @@
 ---
-title: 1. 준비물
+title: 1. CFW를 설치하기 위한 준비물
 author: jshsakura
 date: 2022-01-01
 category: cfw
@@ -12,6 +12,8 @@ order: 4
 😎 먼저 `커스텀 펌웨어`를 설치하기 위해서는 몇가지 `준비물`들이 필요합니다.
 
 스위치를 `SD카드 리더기` 대용으로 사용할 수도 있지만 최초 설치시에는 `SD카드 리더기`가 있는편이 작업이 편합니다.
+
+<br>
 
 <div>
 <div class="table-content"><div><table style="border-collapse: collapse; width: 100%; height: 100px;" border="1" data-ke-style="style15" data-ke-align="alignLeft">

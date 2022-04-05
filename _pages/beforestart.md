@@ -1,5 +1,5 @@
 ---
-title: 시작하기 전에
+title: 튜토리얼을 시작하기 전에
 author: jshsakura
 date: 2022-04-01
 category: CFW
